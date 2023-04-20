@@ -1,8 +1,8 @@
 # Work-Day-Scheduler
 
-//add screenshot here
+![shannarenee github io_Work-Day-Scheduler_ (3)](https://user-images.githubusercontent.com/126972906/233233865-1f976a9b-6eeb-4cff-bd15-2693ca213933.jpeg)
 
-//add link here
+https://shannarenee.github.io/Work-Day-Scheduler/
 
 ## Description
 My motivation behind this project was to build a simple scheduling application so that 
